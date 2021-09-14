@@ -1,7 +1,7 @@
 # Summer-Olympics
-My name is Swapnali Tikkal . I am pursuing  third year in B.Tech(IT).This project is done by using data analysis.In this project I have collected the data for olympics and performed analysis using libraries like numpy ,pandas and matplotlib.
+My name is Swapnali Tikkal . I am pursuing  third year B.Tech(IT).This project is done by using data analysis.In this project I have collected the data for olympics and performed analysis using libraries like numpy ,pandas and matplotlib.
 
-On basis of these questions i have petformed analysis:=
+On basis of these questions I have petformed analysis :-
 1. In how many cities Summer Olympics is held so far?
 2. Which sport is having most number of Gold Medals so far? (Top 5)
 3. Which sport is having most number of medals so far? (Top 5)
